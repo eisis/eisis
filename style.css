@@ -1,0 +1,28 @@
+#site-box {
+          width : 752px;
+          border: 1px solid #66cc66;
+}
+
+#a-box {
+          border-bottom: 1px solid #66cc66;
+          background-image: url('img/header.gif');
+          background-image: url('images/header.gif');
+}
+
+#b-box {
+          float: left;
+          width: 500px;
+}
+
+#c-box {
+          float: right;
+          width: 250px;
+}
+
+#d-box {
+          clear: both;
+          width: 750px;
+          background-color: #66cc66;
+}
+
+.category {　　　}
